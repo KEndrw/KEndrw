@@ -15,7 +15,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/andrás-klein
+[linkedin]: https://linkedin.com/in/andrás-klein
 
 
 <!--
