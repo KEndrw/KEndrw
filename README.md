@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+<h2>🎓 Certificates:</h2>
 
   - [CompTIA Security+](https://www.credly.com/badges/31b49b3c-3119-467b-a955-5232282606a2/public_url)
 
