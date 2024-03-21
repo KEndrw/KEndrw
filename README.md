@@ -1,9 +1,6 @@
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>ESP32 Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/KEndrw/Active-Directory-Lab)
-- [Building an Isolated Laboratory for Malware Analysis](https://github.com/KEndrw/Sandbox_for_Malware_Analysis)
-- [Creating a Keylogger](https://github.com/KEndrw/Keylogger)
-
+- [ESP32 Web Server with BME280](https://github.com/KEndrw/ESP32-Web-Server-BME280)
   
